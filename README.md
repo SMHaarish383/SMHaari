@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @SMHaari
 
+#This program is finding prime number in while loop
+
 
 def it_prime(n):
     if n<=1:
