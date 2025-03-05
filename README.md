@@ -10,7 +10,7 @@
 ✔ Tools & Platforms: Git & GitHub, Eclipse IDE, VS Code, MySQL Workbench
 
 📌 Projects:
-🔹 Real-Time Chat Application – Built using Java, TCP Sockets, and Multi-threading
+🔹 Real-Time Chat Application – Built using Java, TCP Sockets, and Multi-threading 
 🔹 Simple Banking Application – Designed to handle core banking operations
 
 📫 Connect with me:
