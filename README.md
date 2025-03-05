@@ -1,30 +1,21 @@
-- 👋 Hi, I’m @SMHaari
 
-#This program is finding prime number in while loop
+👋 Hi, I'm Muhammadu Haarish!
+🚀 Passionate Java Developer with experience in building real-world applications using Java SE 17, OOP concepts, JDBC, and MySQL. Skilled in both front-end (HTML, CSS, JavaScript) and back-end (Java, Servlets, Collection Framework, Exception Handling) development.
 
+💡 I have gained hands-on experience through college projects, workshops, and an internship at Penta Software Solution, where I worked on Java frameworks, scalable software solutions, and real-time application development.
 
-def it_prime(n):
-    if n<=1:
-        return False
-    if n<=3:
-        return True
-    if n % 2==0 or n % 3==0:
-        return False
-    i=5
-    while i * i <= n:
-        if n % i == 0 or n %(i + 2)==0:
-            return False
-        i+=6
-        return True
+💻 Technical Skills:
+✔ Back-end: Java SE 17, OOP, Exception Handling, JDBC, Servlets
+✔ Front-end: HTML, CSS, JavaScript (Basics), Java Swing
+✔ Tools & Platforms: Git & GitHub, Eclipse IDE, VS Code, MySQL Workbench
 
+📌 Projects:
+🔹 Real-Time Chat Application – Built using Java, TCP Sockets, and Multi-threading
+🔹 Simple Banking Application – Designed to handle core banking operations
 
-number = int (input("enter the number: "))
-
-if it_prime(number):
-    print(f"{number} is prime number.")
-else:
-     print(f"{number} is not prime number")
-
+📫 Connect with me:
+🔗 GitHub: SMHaarish
+🔗 LinkedIn: MuhammaduHaarish
 
 
 
